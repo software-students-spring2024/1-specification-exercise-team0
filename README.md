@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- Nathanuel Dixon, [Github Profile](https://github.com/nathanuel0322)
 
 ## Stakeholders
 
@@ -20,7 +21,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Activity Diagram 1](./images/SWE%20Project%201.drawio.png)
+![UML Activity Diagram 2](./images/UMLActivity2.drawio.png)
 
 ## Clickable Prototype
 
