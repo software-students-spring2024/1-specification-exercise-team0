@@ -5,16 +5,35 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-- Nathanuel Dixon, [GitHub Profile](https://github.com/nathanuel0322)
-- Eugene Chang, [GitHub Profile](https://github.com/egnechng)
+- **Nathanuel Dixon**, [GitHub Profile](https://github.com/nathanuel0322)
+- **Eugene Chang**, [GitHub Profile](https://github.com/egnechng)
+- **Aarav Sawlani**, [GitHub Profile](https://github.com/aaravsawlani)
+- **Babamayokun Okudero**, [GitHub Profile](https://github.com/Mokudero)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+# Stakeholders Interviewed:
+- Jatin Sawlani
+- Prakash Sawlani
+- Akash Advaney
+
+# Goals / Needs:
+1. **Comprehensive Financial Overview:** Users need a holistic view of their trading activities, encompassing all necessary financial metrics and summaries to assess their portfolio's performance.
+2. **Accurate Tax Preparation:** Traders are looking for a solution that simplifies tax reporting, ensuring that they meet tax obligations accurately with minimal effort.
+3. **Real-Time Performance Tracking:** There's a need for real-time tracking of investment performance, including profit and loss (P/L) calculations, to make informed trading decisions.
+4. **Visual Data Representation:** Users want the ability to visualize their transaction and financial data through graphs and charts for better analysis and understanding of their trading activities.
+5. **Automated Calculations:** Traders seek automation in calculating key metrics such as cost basis, proceeds, and total P/L to save time and reduce manual errors.
+
+# Problems / Frustrations:
+1. **Data Integration Issues:** Frustration arises from the challenge of integrating and consolidating trade data from multiple platforms or exchanges, leading to inefficient management and potential inaccuracies.
+2. **Complex Tax Compliance:** Traders are frustrated by the complexity of complying with cryptocurrency tax regulations, which requires detailed tracking and reporting of all transactions.
+3. **Inaccurate or Slow Calculations:** Users are frustrated with the inaccuracy or slowness of current tools in calculating key financial metrics, affecting decision-making and financial planning.
+4. **Usability and Navigation Difficulties:** Difficulty in navigating software or tools that are not user-friendly, leading to a poor user experience and decreased efficiency.
+5. **Limited Reporting Features:** Users express frustration over the limited reporting features in existing tools, which do not offer the depth or flexibility needed for detailed financial analysis and review.
 
 ## Product Vision Statement
 
-A user-friendly app that helps crypto traders easily manage their account, profits and losses, get ready for taxes, and receive key financial metrics.
+**A user-friendly app that helps crypto traders easily manage their account, profits and losses, get ready for taxes, and receive key financial metrics.**
 
 ## User Requirements
 
