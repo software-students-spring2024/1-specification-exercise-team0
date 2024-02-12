@@ -38,4 +38,4 @@ A user-friendly app that helps crypto traders easily manage their account, profi
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to the clickable prototype](https://www.figma.com/proto/rQmIQ1FbUYwAYpbVeAVH7Y/Project-1--Clickable-Prototype?page-id=0%3A1&type=design&node-id=3-3&viewport=397%2C296%2C0.45&t=qyVKNEyZxldfpUdS-1&scaling=min-zoom&starting-point-node-id=3%3A3&mode=design)
