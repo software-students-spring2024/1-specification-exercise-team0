@@ -5,7 +5,8 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-- Nathanuel Dixon, [Github Profile](https://github.com/nathanuel0322)
+- Nathanuel Dixon, [GitHub Profile](https://github.com/nathanuel0322)
+- Eugene Chang, [GitHub Profile](https://github.com/egnechng)
 
 ## Stakeholders
 
