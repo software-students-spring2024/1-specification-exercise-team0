@@ -13,11 +13,22 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A user-friendly app that helps crypto traders easily manage their account, profits and losses, get ready for taxes, and receive key financial metrics.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a frequent crypto trader, I want to easily upload and integrate CSV files from multiple exchanges and platforms, so that I can have a comprehensive and accurate overview of all my trading activities without manual data entry.
+2. As a crypto investor, I want the app to automatically and accurately calculate my total profit and loss (P/L) in real-time, so that I can quickly see how well my investments are performing.
+3. As a crypto investor, I want to see the total value of my buy and sell orders, so that I can understand my trading volume and its impact on my portfolio.
+4. As a crypto investor, I want an app to calculate tax implications of my trades, so that I can be prepared for tax season and comply with tax regulations.
+5. As a crypto investor, I want to visualize my transaction data and financial metrics through intuitive graphs and charts, so that I can better understand and analyze my trading activity.
+6. As a crypto investor, I want automated calculations for key metrics like cost basis and proceeds, so that I can save time and reduce the risk of manual errors.
+7. As a crypto investor, I want an app to provide general insights into my trading behavior, so that I can identify patterns and make informed decisions.
+8. As a user dissatisfied with slow or inaccurate calculations, I want the app to offer fast and precise computation of financial metrics, so that my trading decisions are based on reliable data.
+9. As a trader struggling with usability and navigation, I want an intuitive and easy-to-navigate app interface, so that I can efficiently manage my portfolio without frustration.
+10. As a cryptocurrency investor seeking detailed financial analysis, I want advanced reporting features that allow for in-depth review and customization, so that I can thoroughly assess my trading performance and strategy.
+11. As an accountant, I want to be able to manage my client’s financial statements to provide throrough accounting services (auditing, account analysis, etc.)
+
 
 ## Activity Diagrams
 
